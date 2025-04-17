@@ -38,7 +38,7 @@ The entire analysis and visualizations were performed using **Google Sheets**. K
 - Conditional formatting to highlight positive/negative variances
 
 ---
-https://github.com/rashi12121/Lava_Mobile_Production_Variance_Analysis/blob/main/Lava_Mobile_Production_Variance_Analysis
+
 🖼️ **Dashboard:**  
 ![Analysis Dashboard](https://github.com/rashi12121/Lava_Mobile_Production_Variance_Analysis/blob/main/Lava_Mobile_Production_Variance_Analysis)
 
