@@ -1,7 +1,7 @@
 # 📱 Lava Mobile Production Variance Analysis
 
 ## 🧩 Project Overview
-**Lava** is a mobile manufacturing company. In 2024, the company set production targets for their new models: **Z60**, **X41**, and **A44**. To meet these targets, the management allocated production budgets across different regions, factories, models, and months.
+**Lava** is a mobile manufacturing company. In 2019, the company set production targets for their new models: **Z60**, **X41**, and **A44**. To meet these targets, the management allocated production budgets across different regions, factories, models, and months.
 
 This project focuses on performing a **variance analysis** to compare **budgeted vs. actual production** and identify which regions, models, and quarters met or missed their targets. The goal is to uncover trends and insights to support better production planning.
 
