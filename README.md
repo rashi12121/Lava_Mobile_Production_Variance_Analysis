@@ -39,8 +39,10 @@ The entire analysis and visualizations were performed using **Google Sheets**. K
 
 ---
 
+
+
 🖼️ **Dashboard:**  
-![Analysis Dashboard](https://github.com/rashi12121/Lava_Mobile_Production_Variance_Analysis/blob/main/Lava_Mobile_Production_Variance_Analysis)
+![ Analysis Dashboard](https://github.com/rashi12121/Lava_Mobile_Production_Variance_Analysis/blob/main/Lava_Mobile_Production_Variance_Analysis)
 
 
 
